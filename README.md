@@ -1,2 +1,2 @@
-# Ola Mundo
- primeiro respositório do curso
+# Olá Mundo
+ primeiro respositório do curso em vídeo
